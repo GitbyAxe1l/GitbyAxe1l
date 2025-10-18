@@ -1,15 +1,15 @@
 # 🌹 Axe1l
 
 
+
+
 <div align="center">
   <a href="https://discord.com/users/1025076410127233115" target="_blank">
-    <img 
-      src="https://lanyard.cnrad.dev/api/1025076410127233115?showDisplayName=true&animated=false&theme=dark&borderRadius=25&idleMessage=%F0%9F%8C%B9%20AFK%20%E2%80%93%20Zwischen%20Rosen%20und%20Codezeilen...%20%7C%20Axe1l" 
-      alt="Discord Presence" 
-    />
+    <img src="https://lanyard.cnrad.dev/api/1025076410127233115?&idleMessage=%F0%9F%8C%B9%20AFK%20%E2%80%93%20Zwischen%20Rosen%20und%20Codezeilen...%20%7C%20Axe1l&theme=dark&showDisplayName=true" alt="Discord Presence">
   </a>
 </div>
 
+# 
 
 > _“Code it. Break it. Fix it. Repeat.”_
 
