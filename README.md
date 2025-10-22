@@ -75,6 +75,8 @@ Wenn dir mein Kram gefällt,
 
 
 ## 🛠 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GitbyAxe1l&layout=compact&langs_count=100&theme=dark) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GitbyAxe1l&show_icons=true&theme=dark&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GitbyAxe1l&layout=compact&langs_count=20&theme=dark)
+![Metrics](https://metrics.lecoq.io/GitbyAxe1l?template=classic&languages=1&languages.limit=10&languages.sections=most-used&languages.colors=github&languages.details=percentage&config.timezone=Europe/Berlin)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GitbyAxe1l&show_icons=true&theme=dark&count_private=true) 
 
 
