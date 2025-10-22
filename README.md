@@ -75,7 +75,7 @@ Wenn dir mein Kram gefällt,
 
 
 ## 🛠 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GitbyAxe1l&layout=compact&langs_count=20&theme=dark&exclude_repo=GroßesJavaProjekt)
+![all Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GitbyAxe1l&layout=compact&langs_count=20&theme=dark&exclude_repo=GroßesJavaProjekt)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GitbyAxe1l&show_icons=true&theme=dark&count_private=true) 
 
 
