@@ -72,15 +72,7 @@ Wenn dir mein Kram gefällt,
   </a>
   <p style="font-size: 12px; color: gray;">(Live Counter powered by getloli.com)</p>
 </div>
-# 👋 Hi, ich bin GitbyAxe1l
 
-## 🚀 Über mich
-Kurzbeschreibung über dich, z. B.:
-- Leidenschaftlicher Entwickler  
-- C++ | Java | Python Enthusiast  
-- Open-Source Contributor  
-
----
 
 ## 🛠 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GitbyAxe1l&layout=compact&langs_count=100&theme=dark)
