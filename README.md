@@ -1,8 +1,8 @@
 # 🌹 Axe1l
 
 
-![Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=GitbyAxe1l&layout=compact)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GitbyAxe1l&layout=compact&langs_count=100&theme=dark)
+
 
 
 <div align="center">
