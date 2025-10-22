@@ -79,3 +79,36 @@ Wenn dir mein Kram gefällt,
   </a>
   <p style="font-size: 12px; color: gray;">(Live Counter powered by getloli.com)</p>
 </div>
+# 👋 Hi, ich bin GitbyAxe1l
+
+## 🚀 Über mich
+Kurzbeschreibung über dich, z. B.:
+- Leidenschaftlicher Entwickler  
+- C++ | Java | Python Enthusiast  
+- Open-Source Contributor  
+
+---
+
+## 🛠 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GitbyAxe1l&layout=compact&langs_count=100&theme=dark)
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GitbyAxe1l&show_icons=true&theme=dark&count_private=true)
+
+---
+
+## 💻 Projekte
+| Projekt | Beschreibung | Link |
+|---------|--------------|------|
+| Repo1   | Beschreibung | [GitHub](https://github.com/GitbyAxe1l/Repo1) |
+| Repo2   | Beschreibung | [GitHub](https://github.com/GitbyAxe1l/Repo2) |
+| Repo3   | Beschreibung | [GitHub](https://github.com/GitbyAxe1l/Repo3) |
+
+---
+
+## 📫 Kontakt
+- Email: deine.email@example.com  
+- LinkedIn: [dein-profil](https://linkedin.com/in/dein-profil)  
+- Twitter: [@deinhandle](https://twitter.com/deinhandle)
