@@ -1,12 +1,5 @@
 # 🌹 Axe1l
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GitbyAxe1l&layout=compact&langs_count=100&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GitbyAxe1l&layout=compact&langs_count=100&theme=dark)
-
-
-
 <div align="center">
   <a href="https://discord.com/users/1025076410127233115" target="_blank">
     <img src="https://lanyard.cnrad.dev/api/1025076410127233115?&idleMessage=%F0%9F%8C%B9%20AFK%20%E2%80%93%20Zwischen%20Rosen%20und%20Codezeilen...%20%7C%20Axe1l&theme=dark&showDisplayName=true" alt="Discord Presence">
@@ -97,18 +90,4 @@ Kurzbeschreibung über dich, z. B.:
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GitbyAxe1l&show_icons=true&theme=dark&count_private=true)
 
----
 
-## 💻 Projekte
-| Projekt | Beschreibung | Link |
-|---------|--------------|------|
-| Repo1   | Beschreibung | [GitHub](https://github.com/GitbyAxe1l/Repo1) |
-| Repo2   | Beschreibung | [GitHub](https://github.com/GitbyAxe1l/Repo2) |
-| Repo3   | Beschreibung | [GitHub](https://github.com/GitbyAxe1l/Repo3) |
-
----
-
-## 📫 Kontakt
-- Email: deine.email@example.com  
-- LinkedIn: [dein-profil](https://linkedin.com/in/dein-profil)  
-- Twitter: [@deinhandle](https://twitter.com/deinhandle)
