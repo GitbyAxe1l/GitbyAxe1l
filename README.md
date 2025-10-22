@@ -2,7 +2,7 @@
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GitbyAxe1l&layout=compact&langs_count=100&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GitbyAxe1l&layout=compact&langs_count=100&theme=dark&hide_progress=false&token=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)
+
 
 
 
